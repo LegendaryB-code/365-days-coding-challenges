@@ -1,5 +1,6 @@
 let display = document.getElementById("display");
 
+/* Calculator Functions */
 function appendValue(value) {
   display.value += value;
 }
